@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "user 1",
+            "surname": "user 1",
+            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "balance": 1000
+        }
+    ],
+    "products"  : [
+        
+    ]
+}
