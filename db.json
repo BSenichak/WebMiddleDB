@@ -4,16 +4,32 @@
             "id": 1,
             "name":"user 1",
             "surname": "user 1",
-            "price": 1000,
+            "balance": 1000,
+            "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg"
+        },
+        
+        {
+            "id": 2,
+            "name":"user 2",
+            "surname": "user 2",
+            "balance": 1000,
             "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg"
         }
     ],
     "products" : [
         {
         "id": 1,
-        "name":"product 1",
+        "name":"chocolate",
+        "price": 1000,
+        "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg"
+        },
+
+        {
+        "id": 2,
+        "name":"pasta",
         "price": 1000,
         "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg"
         }
+
     ]
 }
