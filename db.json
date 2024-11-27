@@ -6,9 +6,40 @@
             "surname": "user 1",
             "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
             "balance": 1000
+        },
+        {
+            "id": 2,
+            "name": "user 2",
+            "surname": "user 2",
+            "photo_url": "https://randomuser.me/api/portraits/lego/2.jpg",
+            "balance": 1000
+        },
+        {
+            "id": 3,
+            "name": "user 3",
+            "surname": "user 3",
+            "photo_url": "https://randomuser.me/api/portraits/lego/3.jpg",
+            "balance": 1000
         }
     ],
     "products"  : [
-        
+        {
+            "id": 1,
+            "name": "product 1",
+            "price": 1000,
+            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "product 2",
+            "price": 1000,
+            "photo_url": "https://randomuser.me/api/portraits/lego/2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "product 3",
+            "price": 1000,
+            "photo_url": "https://randomuser.me/api/portraits/lego/3.jpg"
+        }
     ]
 }
