@@ -27,61 +27,81 @@
             "id": 1,
             "name": "product 1",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "description": "Description for product 1",
+            "seller_id": 1
         },
         {
             "id": 2,
             "name": "product 2",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "description": "Description for product 2",
+            "seller_id": 2
         },
         {
             "id": 3,
             "name": "product 3",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "description": "Description for product 3",
+            "seller_id": 3
         },
         {
             "id": 1,
             "name": "product 1",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "description": "Description for product 1",
+            "seller_id": 1
         },
         {
             "id": 2,
             "name": "product 2",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/2.jpg"
+            "photo_url": "https://randomuser.me/api/portraits/lego/2.jpg",
+            "description": "Description for product 2",
+            "seller_id": 2
         },
         {
             "id": 3,
             "name": "product 3",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/3.jpg"
+            "photo_url": "https://randomuser.me/api/portraits/lego/3.jpg",
+            "description": "Description for product 3",
+            "seller_id": 3
         },
         {
             "id": 2,
             "name": "Ice cream",
             "price": 100,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "description": "Delicious ice cream",
+            "seller_id": 1
         },
         {
             "id": 91,
             "name": "Soup",
             "price": 19191,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "description": "Premium soup",
+            "seller_id": 2
         },
         {
             "id": 1,
             "name": "chocolate",
             "price": 1000,
-            "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg"
+            "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg",
+            "description": "Delicious chocolate",
+            "seller_id": 3
         },
         {
             "id": 2,
             "name": "pasta",
             "price": 1000,
-            "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg"
+            "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg",
+            "description": "Tasty pasta",
+            "seller_id": 1
         }
     ]
 }
