@@ -2,105 +2,81 @@
     "users": [
         {
             "id": 1,
-            "name": "user 1",
-            "surname": "user 1",
+            "name": "Oleksandr",
+            "surname": "Tkachenko",
             "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
             "balance": 1000
         },
         {
             "id": 2,
-            "name": "user Elina",
-            "surname": "user 2",
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "name": "Elina",
+            "surname": "Tkachenko",
+            "photo_url": "https://randomuser.me/api/portraits/lego/2.jpg",
             "balance": 900
         },
         {
             "id": 3,
-            "name": "user Nikita",
-            "surname": "user 3",
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "name": "Nikita",
+            "surname": "Tkachenko",
+            "photo_url": "https://randomuser.me/api/portraits/lego/3.jpg",
             "balance": 2000
         }
     ],
     "products": [
         {
             "id": 1,
-            "name": "product 1",
+            "name": "Banana",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
-            "description": "Description for product 1",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiE9BZy3SyV4Xb83a3V-e8Ywq6z1bVZlGsA&s",
+            "description": "Yellow banana",
             "seller_id": 1
         },
         {
             "id": 2,
-            "name": "product 2",
+            "name": "Orange",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
-            "description": "Description for product 2",
+            "photo_url": "https://fruitique.in/cdn/shop/products/Mandarin-orange_750x810.jpg?v=1625786754",
+            "description": "Juicy orange",
             "seller_id": 2
         },
         {
             "id": 3,
-            "name": "product 3",
+            "name": "Apple",
             "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
-            "description": "Description for product 3",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4Fo2rTO4AovAp8Qpz4bg9p_UkHTmEkNXIQ&s",
+            "description": "Sweet apple",
             "seller_id": 3
         },
         {
-            "id": 1,
-            "name": "product 1",
-            "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
-            "description": "Description for product 1",
-            "seller_id": 1
-        },
-        {
-            "id": 2,
-            "name": "product 2",
-            "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/2.jpg",
-            "description": "Description for product 2",
-            "seller_id": 2
-        },
-        {
-            "id": 3,
-            "name": "product 3",
-            "price": 1000,
-            "photo_url": "https://randomuser.me/api/portraits/lego/3.jpg",
-            "description": "Description for product 3",
-            "seller_id": 3
-        },
-        {
-            "id": 2,
-            "name": "Ice cream",
-            "price": 100,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
-            "description": "Delicious ice cream",
-            "seller_id": 1
-        },
-        {
-            "id": 91,
-            "name": "Soup",
+            "id": 4,
+            "name": "Pizza",
             "price": 19191,
-            "photo_url": "https://randomuser.me/api/portraits/lego/1.jpg",
-            "description": "Premium soup",
+            "photo_url": "https://www.applesfromny.com/wp-content/uploads/2020/05/20Ounce_NYAS-Apples2.png",
+            "description": "Delicious pizza",
+            "seller_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Sushi",
+            "price": 100,
+            "photo_url": "https://rocosushi.com/web/uploads/products/8e6b5c69c0a20bd8d88d-%D0%A1%D0%95%D0%A2-BLACK.jpg",
+            "description": "Japanese sushi",
             "seller_id": 2
         },
         {
-            "id": 1,
-            "name": "chocolate",
+            "id": 6,
+            "name": "Wine",
             "price": 1000,
-            "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg",
-            "description": "Delicious chocolate",
+            "photo_url": "https://images.getbento.com/accounts/de23756cf6b256525b2273c241eabc4e/media/images/35074shutterstock_736109854.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+            "description": "Red wine",
             "seller_id": 3
         },
         {
-            "id": 2,
-            "name": "pasta",
+            "id": 7,
+            "name": "Cupcake",
             "price": 1000,
-            "photo_url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg",
-            "description": "Tasty pasta",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOaei5LDWA6FC6ALhMD1QMZdas167W1GCMg&s",
+            "description": "Delicious cupcake",
             "seller_id": 1
         }
     ]
